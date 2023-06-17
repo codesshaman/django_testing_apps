@@ -6,5 +6,5 @@
 
 ```commandline
 from django.shortcuts import render
-from .config_parser import config
+from main_config.views import config
 ```

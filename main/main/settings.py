@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'apps.testing_app.apps.TestingAppConfig',
     'apps.aiogram_core.apps.AiogramCoreConfig',
     'apps.telebot_core.apps.TelebotCoreConfig',
     'apps.main_config.apps.MainConfig',
