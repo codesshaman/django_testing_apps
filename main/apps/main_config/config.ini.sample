@@ -1,0 +1,10 @@
+; Rename this file from config.ini.example to config.ini
+; and write your configuration with sections like this:
+; your comment
+[section_name]
+; comment
+value1
+; comment
+value2
+; comment
+value3
