@@ -1,9 +1,11 @@
+import sys
+sys.path.insert(0, 'apps/config_parser')
 from django.shortcuts import render
-from main_config.views import *
+from config_parser.views import config
+
 
 
 # Create your views here.
-
 
 
 def main():

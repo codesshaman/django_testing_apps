@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'apps.testing_app.apps.TestingAppConfig',
     'apps.aiogram_core.apps.AiogramCoreConfig',
     'apps.telebot_core.apps.TelebotCoreConfig',
-    'apps.main_config.apps.MainConfig',
+    'apps.config_parser.apps.ConfigParser',
 ]
 
 MIDDLEWARE = [
